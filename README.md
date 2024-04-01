@@ -39,6 +39,3 @@
 
 ## Click the link to see the working of the app
 https://youtu.be/X6UqTPTtIlk 
-
-## Further enhancements
-* Registration and login
