@@ -36,3 +36,9 @@
     spring.datasource.username=root
     spring.datasource.password=yourDatabasePassword
     spring.datasource.driver-class-name=com.mysql.cj.jdbc.Driver
+
+## Click the link to see the working of the app
+https://youtu.be/X6UqTPTtIlk 
+
+## Further enhancements
+* Registration and login
