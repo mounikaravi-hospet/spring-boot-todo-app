@@ -22,7 +22,7 @@
 * Bootstrap
 * JQuery
 
-### Additionally adding the below external jars is required
+### Additionally adding the below external jars to the classpath is required
 
 * https://repo1.maven.org/maven2/org/glassfish/web/jakarta.servlet.jsp.jstl/3.0.0/
 * https://repo1.maven.org/maven2/jakarta/servlet/jsp/jstl/jakarta.servlet.jsp.jstl-api/3.0.0/
